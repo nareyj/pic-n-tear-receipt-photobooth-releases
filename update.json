@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "tag": "v1.0",
+  "apkFileName": "PicnTear-Receipt-Photobooth-v1.0.apk",
+  "apkDownloadUrl": "https://github.com/nareyj/pic-n-tear-receipt-photobooth-releases/releases/download/v1.0/PicnTear-Receipt-Photobooth-v1.0.apk",
+  "sha256": "6C82AB43B7946EDF65510C992FAC42F5303A0324E77E8FDD1ADA331E9A0183C9",
+  "releaseNotes": "Production baseline release. Includes the receipt photobooth customer flow, template system, camera capture, thermal printing, coinslot payment, QR payment, voucher system, transaction and revenue management, admin settings, and QR digital-copy workflow."
+}
